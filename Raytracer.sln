@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "Raytracer", "Raytracer.icproj", "{F381C6E1-CE07-45D9-A90E-453C6A3AC9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F381C6E1-CE07-45D9-A90E-453C6A3AC9DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F381C6E1-CE07-45D9-A90E-453C6A3AC9DA}.Debug|Win32.Build.0 = Debug|Win32
+		{F381C6E1-CE07-45D9-A90E-453C6A3AC9DA}.Release|Win32.ActiveCfg = Release|Win32
+		{F381C6E1-CE07-45D9-A90E-453C6A3AC9DA}.Release|Win32.Build.0 = Release|Win32
+		{CAF200EC-DB8E-4AD7-ADD7-F1E8FFC71286}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAF200EC-DB8E-4AD7-ADD7-F1E8FFC71286}.Debug|Win32.Build.0 = Debug|Win32
+		{CAF200EC-DB8E-4AD7-ADD7-F1E8FFC71286}.Release|Win32.ActiveCfg = Release|Win32
+		{CAF200EC-DB8E-4AD7-ADD7-F1E8FFC71286}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
